@@ -1,0 +1,12 @@
+# Teams
+teams:
+- &team0 #ROOT
+    _id: {$oid: "161d87b8b260cf35147998ca"}
+    code: 1
+    name: ColoColo
+    score: 10
+- &team1
+    _id: {$oid: "261d87b8b260cf35147998ca"}
+    code: 2
+    name: Amigos
+    score: 0

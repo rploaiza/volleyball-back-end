@@ -4,9 +4,9 @@
 
 * El desarrollo del servidor es en Node.Js con una base de datos mongo, la db se encuentra en la plataforma mlab de tal manera que esta en la nube y el servidor desplegado en heroku.
 
-* URL del API Rest: https://developvolleyball.herokuapp.com/
+* URL del API Rest: https://back-end-volleyball.herokuapp.com/
 
-* URL Front-End: https://ndeveloper-volleyboll.herokuapp.com/
+* URL Front-End: https://front-end-volleyboll.herokuapp.com/
 
 * URL repositorio git front-end: https://github.com/rploaiza/volleyball-front-end
 
